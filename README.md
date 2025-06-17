@@ -7,7 +7,7 @@
 ```typescript
 const desarrollador = {
     nombre: "Fabrixx",
-    ubicacion: "Tu Ciudad, País",
+    ubicacion: "Torino, Italia",
     rol: "Full Stack Developer",
     lenguajes: ["JavaScript", "Python", "TypeScript", "Java"],
     frameworks: ["React", "Node.js", "Express", "Django"],
