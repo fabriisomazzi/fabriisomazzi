@@ -50,10 +50,11 @@ const fabrixx = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabriisomazzi&theme=tokyonight&hide_border=true)
-  
+  <div align="center">
+  <img height="160em" src="  https://github-readme-activity-graph.vercel.app/graph?username=fabriisomazzi&theme=tokyo-night"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriisomazzi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
+
 
 ## 🎯 Este año
 
