@@ -50,7 +50,7 @@ const fabrixx = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabriisomazzi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fabriisomazzi&theme=tokyo-night)"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriisomazzi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 <div align="center">
