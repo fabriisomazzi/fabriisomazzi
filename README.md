@@ -55,6 +55,5 @@ const fabrixx = {
 
 ---
 
-> "First, solve the problem. Then, write the code." - John Johnson
 
 ![Visitors](https://visitor.archi.workers.dev/badge?page_id=fabriisomazzi.fabriisomazzi)
