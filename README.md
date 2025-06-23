@@ -1,59 +1,63 @@
-# 🚀 Fabrixx - Full Stack Developer
+# Ciao! 👋 Soy Fabrixx
 
-```typescript
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Apasionado+por+el+código+limpio;Siempre+aprendiendo+algo+nuevo&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+</div>
+
+## ✨ Sobre mí
+
+Soy un desarrollador full stack con pasión por crear soluciones elegantes y funcionales. Vivo en Torino, Italia, y disfruto transformando ideas en código que realmente importe.
+
+```javascript
 const fabrixx = {
-  passion: "Building digital solutions with clean code",
-  location: "Torino, Italy",
-  techStack: {
-    frontend: ["React", "Vue", "TypeScript"],
-    backend: ["Node.js", "Python", "Django"],
-    databases: ["MongoDB", "PostgreSQL"],
-    devOps: ["Docker", "AWS", "Git"]
-  },
-  currentlyLearning: ["Rust", "Microservices"],
-  hobbies: ["Open source", "Tech meetups", "Mountain biking"]
+  ubicacion: "Torino, Italia 🇮🇹",
+  especialidad: "Full Stack Development",
+  enfoque: "Código limpio y soluciones elegantes",
+  actualmenteAprendiendo: ["Rust", "WebAssembly"],
+  colaboracion: "Siempre abierto a nuevos proyectos"
 };
 ```
 
-## 🌟 My Tech Stack
+## 🛠 Tecnologías
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+**Frontend**  
+React • TypeScript • Vue.js • HTML5 • CSS3
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
+**Backend**  
+Node.js • Python • Express • Django • FastAPI
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+**Datos**  
+MongoDB • PostgreSQL • Redis
 
-## 📈 GitHub Stats
+**Herramientas**  
+Git • Docker • AWS • Linux
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriisomazzi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriisomazzi&layout=compact&theme=dark&hide_border=true"/>
+</div>
+
+## 🎯 Este año
+
+- Contribuir más al open source
+- Dominar arquitecturas de microservicios  
+- Explorar inteligencia artificial aplicada
+- Hablar en eventos tech locales
+
+## 💬 Conectemos
 
 <div align="center">
   
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabriisomazzi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriisomazzi&layout=compact&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://tu-portfolio.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
 
 </div>
 
-## 🔥 Latest Projects
-
-- [E-Commerce Platform](https://github.com/fabriisomazzi/ecommerce) - Full stack e-commerce solution
-- [Task Manager API](https://github.com/fabriisomazzi/task-api) - REST API with Node.js
-- [Portfolio Template](https://github.com/fabriisomazzi/portfolio-template) - React + Tailwind CSS
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/fabrixx)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/fabrixx_dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&style=for-the-badge)](mailto:fabrixx@example.com)
-
 ---
 
-
-![Visitors](https://visitor.archi.workers.dev/badge?page_id=fabriisomazzi.fabriisomazzi)
+<div align="center">
+  <i>"El mejor código es el que no necesita comentarios para ser entendido"</i>
+</div>
