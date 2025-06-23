@@ -54,7 +54,7 @@ const fabrixx = {
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriisomazzi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabriisomazzi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabriisomazzi&theme=tokyo-night" alt="GitHub Streak"/>
 </div>
 
 
