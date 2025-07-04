@@ -60,9 +60,9 @@ const fabrixx = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-somazzi-025b00248/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://fabrizzio-somazzi.netlify.app)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leandrosomazzi@hotmail.com)
 
 </div>
 
